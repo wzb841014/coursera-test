@@ -1,0 +1,46 @@
+body{
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+}
+h2{
+	font-size: 1.5em;
+	color: grey;
+}
+#hulk_1 { position: relative;
+	top :0;
+	left: 0;
+}
+h3{
+	text-transform: uppercase;
+	font-size: 1.3em;
+	color: blue;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+	font-weight:bolder;
+}
+p{
+	font-size: 0.9em;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+}
+.sub-divide{
+	position:relative;
+}
+
+p.language {
+	margin:0;
+	border:0;
+	padding-left: 0px;
+	font-weight:bold;
+}
+
+#statement, #contact, #hulk_1, #hulk_2 {
+	margin:0;
+	border:0;
+	padding-left: 0px;	
+}
+.date{
+	font-size:1em;
+}
+
+span{
+    font-weight:bold;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+}
