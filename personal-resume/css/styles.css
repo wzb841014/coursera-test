@@ -75,6 +75,7 @@ p.language {
 }
 #statement, #contact {
   padding-top: 20px;
+  padding-bottom: 10px;
 }
 .date{
 	font-size:1em;
