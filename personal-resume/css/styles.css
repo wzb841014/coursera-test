@@ -49,11 +49,11 @@ p{
     
   }
 #email-btn > a {
-    font-size: 1.2em;
+    font-size: 1em;
 
     display: block;
     margin: 0px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     padding: 0px;
     border: 0px solid #fff;
     background-color: #DDDDDD;
