@@ -1,0 +1,101 @@
+
+
+body{
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+}
+
+
+
+#hulk_1 { position: relative;
+	top :0;
+	left: 0;
+}
+h3{
+	text-transform: uppercase;
+	font-size: 1.3em;
+	color: #2F4F4F;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+	font-weight:bolder;
+  line-height: 1em;
+  margin:10px 0px 0px 0px;
+}
+hr{
+  margin-top:5px;
+}
+p{
+	font-size: 0.9em;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+}
+.sub-divide{
+	position:relative;
+}
+#call-btn > a {
+    font-size: 1.2em;
+    display: block;
+    margin: 0px;
+    margin-bottom: 10px;
+    padding: 0px;
+    border: 0px solid #fff;
+    background-color: #DDDDDD;
+    font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+    
+  }
+#email-btn > a {
+    font-size: 1.2em;
+
+    display: block;
+    margin: 0px;
+    margin-bottom: 20px;
+    padding: 0px;
+    border: 0px solid #fff;
+    background-color: #DDDDDD;
+    font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+    
+  }
+
+p.language {
+	margin:0;
+	border:0;
+	padding-left: 0px;
+	font-weight:bold;
+}
+
+#statement, #contact, #hulk_1, #hulk_2 {
+	margin:0;
+	border:0;
+	padding-left: 0px;	
+}
+#statement, #contact {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.date{
+	font-size:1em;
+}
+
+
+span{
+    font-weight:bold;
+	font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+}
+
+
+
+
+h1,h2 { 
+  font-family: 'Lora', serif;
+  color: #2F4F4F;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: 1;
+  padding: 0px;
+  padding-top: 20px;
+}
+
+h2 { 
+  font-size: 1.5em;
+  padding: 0px;
+}
